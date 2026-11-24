@@ -4,7 +4,7 @@ Skill de agente (Claude Code e compatíveis) para **contar uma história em rote
 produto ou de venda**, de 30 s a 2 min, com ou sem narração, feito de gravação real de tela.
 
 Ela obriga início, meio e fim (um caso só, do pedido até o trabalho feito), põe o cliente como herói e
-o produto como mentor dentro da cadeia de causa, e passa o roteiro por 32 perguntas e 20 modos de falha.
+o produto como mentor dentro da cadeia de causa, e passa o roteiro por 33 perguntas e 21 modos de falha. Antes de tudo, exige o estudo escrito do produto (passo 0).
 
 Em português (pt-BR).
 

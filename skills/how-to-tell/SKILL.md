@@ -1,8 +1,8 @@
 ---
 name: how-to-tell
-description: "Como contar uma história em roteiro de vídeo curto de produto ou de venda (30 s a 2 min), com ou sem narração, feito de gravação real de tela. Use ANTES de escrever ou revisar qualquer roteiro, storyboard, peça de venda em vídeo, demo de produto, Reels/Shorts ou anúncio: obriga início, meio e fim (um caso só seguido até o desfecho), o cliente como herói e o produto como mentor dentro da cadeia de causa, e passa o roteiro por 32 perguntas e 20 modos de falha. Use também quando um roteiro foi reprovado por 'parecer manual', 'tour de funções', 'história incompleta' ou 'sem fim'."
+description: "Como contar uma história em roteiro de vídeo curto de produto ou de venda (30 s a 2 min), com ou sem narração, feito de gravação real de tela. Exige, antes de tudo, o estudo escrito do produto (passo 0, bloqueante). Use ANTES de escrever ou revisar qualquer roteiro, storyboard, peça de venda em vídeo, demo de produto, Reels/Shorts ou anúncio: obriga início, meio e fim (um caso só seguido até o desfecho), o cliente como herói e o produto como mentor dentro da cadeia de causa, e passa o roteiro por 33 perguntas e 21 modos de falha. Use também quando um roteiro foi reprovado por 'parecer manual', 'tour de funções', 'história incompleta' ou 'sem fim'."
 metadata:
-  version: 1.1.0
+  version: 1.2.0
   idioma: pt-BR
   base: "references/pesquisa.md (pesquisa de 24/11/2026: livros, meta-análises, teses, guias de plataforma e fontes práticas em português)"
 ---
@@ -11,6 +11,25 @@ metadata:
 
 Um roteiro sem história vira manual ou tour de funções, mesmo com texto bem escrito. Esta skill vem
 antes do texto: decide a história, escreve o roteiro e confere tudo antes de qualquer gravação.
+
+## Passo 0: conhecer o produto (bloqueante)
+
+Quem não sabe o que o produto faz não tem história para contar. Antes de qualquer roteiro, o autor
+estuda o produto inteiro: o código, a ajuda de cada tela, as telas reais e o que a empresa já escreveu
+sobre posicionamento. Precisa saber o que o produto faz, para quem e o que ele faz melhor que o jeito
+antigo.
+
+- O estudo fica **escrito** num arquivo de produto: cada capacidade, o que faz de ponta a ponta, onde
+  para e precisa da pessoa, e a fonte (arquivo, tela ou ferramenta).
+- A história nasce do estudo: a tarefa escolhida é uma em que o produto faz trabalho pesado e visível.
+  Notícia pode ser gatilho; nunca é a entrada.
+- **Sem o estudo, a skill não roda.** Descrição de ferramenta, notícia, molde de outra obra ou
+  conversa não substituem o estudo.
+- Cada passo da Story Spine e da Conferência de fato cita o trecho do estudo que o sustenta. Passo sem
+  citação sai.
+
+(Regra do dono, 24/11/2026: "Quando tu sabe qual é o objeto do teu anúncio, tu tem que saber tudo
+sobre ele. Tudo.")
 
 ## A regra que vence todas as outras
 
@@ -113,6 +132,7 @@ Com voz: ~150 palavras por minuto, uma história só, no ponto de vista do heró
 
 ## Como trabalhar (ordem)
 
+0. **Estudo do produto** (ver Passo 0). Sem ele, pare aqui.
 1. **Desfecho primeiro.** Escreva a última imagem e o mote antes de qualquer outra coisa (Coats, regra 7).
 2. **Frase-promessa:** "[herói] precisa [tarefa] porque [dor]; no fim, [resultado visível na tela]". Uma só.
 3. **Arquétipo:** a dor que o público vive toda semana, sem precisar de explicação.
@@ -126,6 +146,7 @@ Com voz: ~150 palavras por minuto, uma história só, no ponto de vista do heró
 
 ```
 # ROTEIRO — <título>
+Estudo do produto: <arquivo do estudo> · tarefa escolhida e por que o produto faz o trabalho pesado nela
 Promessa: <frase-promessa>
 Arquétipo: <situação reconhecível>
 Desfecho (última imagem): <...>   Mote: "<...>"
@@ -138,12 +159,13 @@ Era uma vez… / Todo dia… / Até que um dia… / Por causa disso… / Por cau
 |---|---|---|---|---|
 
 Conferência de fato: <passo → onde o produto faz isso hoje>
-Checklist: <itens que falharam e por quê, ou "32/32">
+Checklist: <itens que falharam e por quê, ou "33/33">
 ```
 
 ## Checklist (passa ou não passa)
 
 **A. Antes de escrever**
+0. Existe estudo escrito do produto, e cada passo do roteiro cita o trecho que o sustenta?
 1. Uma frase-promessa só, no formato acima?
 2. A dor é um arquétipo que o público já viveu?
 3. O final e a última imagem foram decididos antes do meio?
@@ -213,6 +235,7 @@ Checklist: <itens que falharam e por quê, ou "32/32">
 | 18 | Jornada do herói inteira em 60 s | mais de quatro movimentos | Story Spine ou Normal → Explosão → Novo Normal |
 | 19 | Arquétipo errado | a dor precisa de explicação | situação que o público vive toda semana |
 | 20 | Ciência de enfeite | ocitocina ou número de plataforma como fato | heurística, sem causa fisiológica |
+| 21 | Autor que não conhece o produto | roteiro sem estudo escrito; tarefa escolhida por notícia; o produto aparece fazendo pouco ou o banal | parar, estudar o produto (passo 0) e escolher a tarefa em que ele faz o trabalho pesado |
 
 ## Fontes principais
 
