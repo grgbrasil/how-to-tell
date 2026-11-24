@@ -1,8 +1,8 @@
 ---
 name: how-to-tell
-description: "Como contar uma história em roteiro de vídeo curto de produto ou de venda (30 s a 2 min), com ou sem narração, feito de gravação real de tela. Use ANTES de escrever ou revisar qualquer roteiro, storyboard, peça de venda em vídeo, demo de produto, Reels/Shorts ou anúncio: obriga início, meio e fim (um caso só seguido até o desfecho), o cliente como herói e o produto como mentor dentro da cadeia de causa, e passa o roteiro por 36 perguntas e 19 modos de falha. Inclui o portão da publicidade da advocacia (Provimento 205/2021 da OAB) para software vendido a advogados. Use também quando um roteiro foi reprovado por 'parecer manual', 'tour de funções', 'história incompleta' ou 'sem fim'."
+description: "Como contar uma história em roteiro de vídeo curto de produto ou de venda (30 s a 2 min), com ou sem narração, feito de gravação real de tela. Use ANTES de escrever ou revisar qualquer roteiro, storyboard, peça de venda em vídeo, demo de produto, Reels/Shorts ou anúncio: obriga início, meio e fim (um caso só seguido até o desfecho), o cliente como herói e o produto como mentor dentro da cadeia de causa, e passa o roteiro por 32 perguntas e 20 modos de falha. Use também quando um roteiro foi reprovado por 'parecer manual', 'tour de funções', 'história incompleta' ou 'sem fim'."
 metadata:
-  version: 1.0.0
+  version: 1.1.0
   idioma: pt-BR
   base: "references/pesquisa.md (pesquisa de 24/11/2026: livros, meta-análises, teses, guias de plataforma e fontes práticas em português)"
 ---
@@ -102,18 +102,14 @@ Com voz: ~150 palavras por minuto, uma história só, no ponto de vista do heró
 - Antes do roteiro, confira no próprio produto o que ele faz **hoje** em cada passo da história. Passo
   que o produto não faz não entra (ou a história muda).
 
-## Portão da publicidade da advocacia (Provimento 205/2021 da OAB, leitura conservadora)
+## Dados na tela
 
-Vale quando o público ou o personagem é advogado. É leitura, não parecer jurídico.
-
-- Nada de caso real de cliente com desfecho, decisão judicial real ou resultado de processo como
-  conquista (arts. 4º §2º, 5º §3º, 6º).
-- Personagem e dados fictícios (nomes, número de processo, CPF), declarados como fictícios quando houver
-  dúvida.
-- A mudança mostrada é **operacional** (prazo aberto, intimação lida, peça minutada, cliente avisado),
-  nunca o ganho da causa.
-- Sem superlativo, autoengrandecimento ou comparação nominal com concorrente (art. 3º IV). Sóbrio.
-- Depoimento de escritório real só depois de consulta à seccional.
+- Nomes, números de processo, CPFs e partes na tela são **fictícios**. O motivo é a privacidade de quem
+  usa o produto (sigilo do cliente, LGPD), e não regra de publicidade: a empresa que vende o software é
+  de tecnologia e anuncia como empresa de tecnologia.
+- A pesquisa em `references/pesquisa.md` traz uma seção sobre o Provimento 205/2021 da OAB. Ele regula a
+  publicidade **de escritório de advocacia** e não se aplica a empresa de tecnologia; por isso não entra
+  nesta skill. Só volta a valer se o vídeo for feito para um escritório anunciar a si mesmo.
 
 ## Como trabalhar (ordem)
 
@@ -142,8 +138,7 @@ Era uma vez… / Todo dia… / Até que um dia… / Por causa disso… / Por cau
 |---|---|---|---|---|
 
 Conferência de fato: <passo → onde o produto faz isso hoje>
-Portão OAB: <passa / o que mudou>
-Checklist: <itens que falharam e por quê, ou "36/36">
+Checklist: <itens que falharam e por quê, ou "32/32">
 ```
 
 ## Checklist (passa ou não passa)
@@ -187,16 +182,12 @@ Checklist: <itens que falharam e por quê, ou "36/36">
 28. Final positivo, novo normal concreto, mote sem trocadilho vazio?
 29. Cartão final com marca e uma única ação?
 
-**F. Portão OAB** (quando o público é advogado)
-30. Nomes, processos, CPFs e partes fictícios?
-31. Nenhuma decisão real, resultado de processo ou caso concreto como conquista?
-32. Sem promessa de resultado, superlativo ou comparação nominal?
-33. Personagem fictícia declarada quando há dúvida; advogado real sem captação nem honorários?
-34. Depoimento real só com consulta prévia à seccional?
+**F. Dados na tela**
+30. Nomes, processos, CPFs e partes fictícios, sem dado de cliente real?
 
 **G. Testes finais**
-35. Em uma frase: qual valor virou do começo ao fim (McKee)?
-36. Um espectador prevê o próximo passo a cada corte (Hasson)? O vídeo cabe numa série?
+31. Em uma frase: qual valor virou do começo ao fim (McKee)?
+32. Um espectador prevê o próximo passo a cada corte (Hasson)? O vídeo cabe numa série?
 
 ## Modos de falha
 
@@ -217,12 +208,11 @@ Checklist: <itens que falharam e por quê, ou "36/36">
 | 13 | Zoom sem motivo | câmera entra e sai sem decisão nem resultado | só zoom de decisão e de resultado |
 | 14 | Sobrepromessa | a edição sugere o que a gravação não mostra inteiro | mostrar só o que o produto faz hoje, de ponta a ponta |
 | 15 | Vendedor na boca da personagem | a personagem recita benefícios | ela age e reage; o benefício está no resultado |
-| 16 | Dado real na tela | cliente, processo ou CPF reais | base fictícia ou máscara antes da edição |
-| 17 | Resultado jurídico como prova | sentença favorável, "caso que vencemos" | mudança operacional |
-| 18 | Superlativo e comparação | "o melhor", "o único", "mais rápido que X" | dizer o que a tela mostra |
-| 19 | Jornada do herói inteira em 60 s | mais de quatro movimentos | Story Spine ou Normal → Explosão → Novo Normal |
-| 20 | Arquétipo errado | a dor precisa de explicação | situação que o público vive toda semana |
-| 21 | Ciência de enfeite | ocitocina ou número de plataforma como fato | heurística, sem causa fisiológica |
+| 16 | Dado real na tela | cliente, processo ou CPF reais | base fictícia ou máscara antes da edição (privacidade) |
+| 17 | Superlativo e comparação | "o melhor", "o único", "mais rápido que X" | dizer o que a tela mostra |
+| 18 | Jornada do herói inteira em 60 s | mais de quatro movimentos | Story Spine ou Normal → Explosão → Novo Normal |
+| 19 | Arquétipo errado | a dor precisa de explicação | situação que o público vive toda semana |
+| 20 | Ciência de enfeite | ocitocina ou número de plataforma como fato | heurística, sem causa fisiológica |
 
 ## Fontes principais
 
@@ -232,5 +222,5 @@ Braddock e Dillard; Shen, Sheer e Li; Dahlstrom; Glaser e Reisinger; Zebregs et 
 McQueen; Quesenberry e Coolsen; Hamby e Brinberg; Teixeira, Wedel e Pieters; Stephens, Silbert e Hasson;
 Ecker et al.; StoryBrand (Miller); Kindra Hall; Nancy Duarte; Andy Raskin; Ogilvy; Godin; Google ABCD;
 TikTok e Meta creative guidance; Murch (regra dos seis); Kuleshov; Hitchcock; Tchékhov; Wistia;
-Fernando Palacios; Doc Comparato; Skills and Lead; Ferreira (tese ESPM 2022); OAB, Provimento 205/2021.
+Fernando Palacios; Doc Comparato; Skills and Lead; Ferreira (tese ESPM 2022).
 Links e grau de confiança de cada uma em `references/pesquisa.md`.
